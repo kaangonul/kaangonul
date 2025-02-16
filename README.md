@@ -1,11 +1,9 @@
-
-
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.fiverr.com%2Fm_aliumair%2Fdo-you-php-js-javascript-html-and-sql-tasks&psig=AOvVaw3MAYcwNw1KBHGWf10vJLut&ust=1739798372887000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMizpJGkyIsDFQAAAAAdAAAAABA6](https://camo.githubusercontent.com/89b4c6bbdd401f05e6f3b4a6bfb756ae75ec4bccb12ae3b57d42a0c050781183/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958))
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHayAQoavz0FA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680735394821?e=1745452800&v=beta&t=Kb2bxun94hnjXTjB5sVaP3oMpCE0NwHJ3BnrlyhBy1s)
 
 <h1 align="center">Hi 👋, I'm Yaşar Kaan Gönül</h1>
 <h3 align="center">A passionate Turkish software developer.</h3>
 
-- 💬 Ask me about **Javascript,React-Native,PHP**
+- 💬 Ask me about **Javascript,PHP**
 
 - 📫 How to reach me **gonulyasar92@gmail.com**
 

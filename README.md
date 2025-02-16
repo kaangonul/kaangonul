@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kanyonbilisim.com%2Fblog%2Fyazilim-nedir-yazilim-cesitleri-nelerdir&psig=AOvVaw1YZ7OAs6XdL9tldx_lK8xU&ust=1739797894612000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjF7q2iyIsDFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiverr.com%2Frmn_pndy%2Fdo-assignment-of-java-python-php-and-node-js&psig=AOvVaw3MAYcwNw1KBHGWf10vJLut&ust=1739798372887000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMizpJGkyIsDFQAAAAAdAAAAABAc)
 
 <h1 align="center">Hi 👋, I'm Yaşar Kaan Gönül</h1>
 <h3 align="center">A passionate Turkish software developer.</h3>

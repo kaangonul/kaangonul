@@ -1,9 +1,11 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHayAQoavz0FA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680735394821?e=1745452800&v=beta&t=Kb2bxun94hnjXTjB5sVaP3oMpCE0NwHJ3BnrlyhBy1s)
+<h1 align="center">Welcome My Page 💻💻 </h1>
+
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHayAQoavz0FA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680735394821?e=1745452800&v=beta&t=Kb2bxun94hnjXTjB5sVaP3oMpCE0NwHJ3BnrlyhBy1s)
 
 <h1 align="center">Hi 👋, I'm Yaşar Kaan Gönül</h1>
 <h3 align="center">A passionate Turkish software developer.</h3>
 
-- 💬 Ask me about **Javascript,PHP**
+- 💬 Ask me about **Javascript,PHP,Java,React-Native**
 
 - 📫 How to reach me **gonulyasar92@gmail.com**
 
